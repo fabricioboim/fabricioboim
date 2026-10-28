@@ -1,8 +1,8 @@
 # Hi, I'm Fabricio 👋
-Full Stack Engineer from Brazil with 6+ years building web applications with **PHP (Laravel, Symfony), React, JavaScript, Tailwind CSS and MySQL**, plus business automation with **n8n, Docker and LLM APIs**.
+Full Stack Engineer from Brazil with 5+ years building web applications with **PHP (Laravel, Symfony), React, JavaScript, Tailwind CSS and MySQL**, plus business automation with **n8n, Docker and LLM APIs**.
 
 🌎 Open to remote full-time or contract roles (US, Canada, Europe) · UTC-3  
-💼 [LinkedIn](https://www.linkedin.com/in/fabricio-luiz1990/)
+💼 [Portfolio](https://fabricioluiz.vercel.app) · [LinkedIn](https://www.linkedin.com/in/fabricio-luiz1990/)  
 
 ### Tech stack
 **Backend:** PHP, Laravel, Symfony, REST APIs, MySQL  
